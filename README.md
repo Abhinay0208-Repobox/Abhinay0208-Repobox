@@ -16,9 +16,13 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -27,9 +31,11 @@
 - ☁️ Mastering AWS core services and IAM best practices
 - ⚙️ Creating CI/CD pipelines with **Jenkins**
 - 🐳 Managing containers with **Docker** and **Kubernetes**
-- 📦 Automating infrastructure using **Terraform** and **Ansible**
+- 📦 Automating infrastructure using **Terraform** and **Ansible
+- 📊 Monitoring systems with **Prometheus** and **Grafana**
 - 🧪 Exploring scripting and automation using **Bash** and **Python** *(not an expert yet!)*
-- 🔧 Practicing system administration on **Red Hat** and **Ubuntu** Linux
+- 🔧 Practicing system administration on **Ubuntu** and **Red Hat** Linux
+
 
 ---
 
