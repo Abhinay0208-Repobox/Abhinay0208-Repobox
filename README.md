@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Abhinay Singh</h1>
 
 <p align="center">
-  🎓 DevOps Student | 🌩️ AWS Enthusiast | 🚀 Future DevOps Engineer<br>
+  🎓 DevOps Enthusiast | 🌩️ AWS Enthusiast | 🚀 Future DevOps Engineer<br>
   🌱 Currently learning all things DevOps, Cloud & Automation
 </p>
 
