@@ -42,12 +42,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinay0208-Repobox&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinay0208-Repobox&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinay0208-Repobox&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinay0208-Repobox&theme=dark" alt="GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinay0208-Repobox&theme=radical" alt="GitHub Trophy" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinay0208-Repobox&theme=dark" alt="GitHub Trophy" width="45%" />
   <img src="https://activity-graph.herokuapp.com/graph?username=Abhinay0208-Repobox&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" width="45%" />
 </p>
 
