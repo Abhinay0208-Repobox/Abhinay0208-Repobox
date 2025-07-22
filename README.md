@@ -42,8 +42,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinay0208-Repobox&show_icons=true&theme=light" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinay0208-Repobox&theme=light" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinay0208-Repobox&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinay0208-Repobox&theme=gruvbox" alt="GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
