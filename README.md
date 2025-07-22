@@ -47,8 +47,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinay0208-Repobox&theme=radical" alt="GitHub Trophy" width="45%" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abhinay0208-Repobox&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinay0208-Repobox&theme=gruvbox" alt="GitHub Trophy" width="45%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Abhinay0208-Repobox&theme=gruvbox&area=true&hide_border=true" alt="GitHub Activity Graph" width="45%" />
 </p>
 
 
