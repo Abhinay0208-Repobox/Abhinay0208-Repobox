@@ -46,6 +46,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinay0208-Repobox&theme=radical" alt="GitHub Streak" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinay0208-Repobox&theme=radical" alt="GitHub Trophy" width="45%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Abhinay0208-Repobox&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" width="45%" />
+</p>
+
+
 ---
 
 ## 📫 Connect with Me
